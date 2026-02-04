@@ -1,4 +1,4 @@
-package org.example;
+package Model;
 import java.io.Serializable;
 
 public class Student implements Serializable {
@@ -47,6 +47,6 @@ public class Student implements Serializable {
 
     @Override
     public String toString() {
-        return id + " | " + name + " | " + age + " | " + score;
+        return id + " || " + name + " || " + age + " || " + score;
     }
 }

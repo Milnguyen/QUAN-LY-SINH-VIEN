@@ -1,4 +1,4 @@
-package org.example;
+package Exception;
 
 public class InvalidDataException extends Exception {
     public InvalidDataException(String message) {

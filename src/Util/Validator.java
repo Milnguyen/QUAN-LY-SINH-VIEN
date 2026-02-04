@@ -1,4 +1,4 @@
-package org.example;
+package Util;
 import Exception.InvalidDataException;
 
 public class Validator {

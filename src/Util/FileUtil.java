@@ -1,4 +1,4 @@
-package org.example;
+package Util;
 
 import Model.Student;
 import java.io.*;
